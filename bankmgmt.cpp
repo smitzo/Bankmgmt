@@ -1,4 +1,4 @@
-// Author     :- Tirth jasoliya  Smit joshi
+// Author     :- Tirth jasoliya , Smit joshi
 // Program    :-  Bank
 // Problem    :-  Transfer Money from Account to Account , One Object to Another Object
 // Start Date :-  14-May-2022
@@ -16,51 +16,7 @@
 
 using namespace std;
 
- OLD {
-  void PASSWORd()
-//      {
-          char p;
-//          p = _getch();
-//          _putch(p);
-//          while (p != 13)
-//          {
-//              OPASS.push_back(p);
-//              p = _getch();
-//              _putch(p);
-//          }
-//      }
-//  void acc_num_generator()
-//      {
-//          char acc_number[12];
-//          const char RANGE[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
-//          srand(time(0));
-//          for (int i = 0; i < 5; i++)
-//          {
-//              acc_number[i] = RANGE[rand() % 10];
-//          }
-//          for (int i = 0; i < 5; i++)
-//          {
-//              acc_number[i + 5] = acc_number[i];
-//          }
-//          switch (acc_type)
-//          {
-//          case 'S':
-//              acc_number[0] = 'S';
-//              acc_number[1] = 'I';
-//              acc_number[2] = 'C';
-//              acc_number[3] = 'I';
-//              acc_number[4] = 'C';
-//              break;
-//          case 'C':
-//              acc_number[0] = 'C';
-//              acc_number[1] = 'I';
-//              acc_number[2] = 'C';
-//              acc_number[3] = 'I';
-//              acc_number[4] = 'C';
-//              break;
-//          }
-//      }
-//  }
+
 
 class bank
 {
